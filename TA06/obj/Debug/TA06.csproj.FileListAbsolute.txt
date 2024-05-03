@@ -1,0 +1,12 @@
+D:\JOHN UPC\2024-1\Fundamentos de Sistemas de Información\Semana 6\TA06\bin\Debug\TA06.exe.config
+D:\JOHN UPC\2024-1\Fundamentos de Sistemas de Información\Semana 6\TA06\bin\Debug\TA06.exe
+D:\JOHN UPC\2024-1\Fundamentos de Sistemas de Información\Semana 6\TA06\bin\Debug\TA06.pdb
+D:\JOHN UPC\2024-1\Fundamentos de Sistemas de Información\Semana 6\TA06\obj\Debug\TA06.csproj.AssemblyReference.cache
+D:\JOHN UPC\2024-1\Fundamentos de Sistemas de Información\Semana 6\TA06\obj\Debug\TA06.FormPrincipal.resources
+D:\JOHN UPC\2024-1\Fundamentos de Sistemas de Información\Semana 6\TA06\obj\Debug\TA06.Properties.Resources.resources
+D:\JOHN UPC\2024-1\Fundamentos de Sistemas de Información\Semana 6\TA06\obj\Debug\TA06.csproj.GenerateResource.cache
+D:\JOHN UPC\2024-1\Fundamentos de Sistemas de Información\Semana 6\TA06\obj\Debug\TA06.csproj.CoreCompileInputs.cache
+D:\JOHN UPC\2024-1\Fundamentos de Sistemas de Información\Semana 6\TA06\obj\Debug\TA06.exe
+D:\JOHN UPC\2024-1\Fundamentos de Sistemas de Información\Semana 6\TA06\obj\Debug\TA06.pdb
+D:\JOHN UPC\2024-1\Fundamentos de Sistemas de Información\Semana 6\TA06\obj\Debug\TA06.FormEcosistema.resources
+D:\JOHN UPC\2024-1\Fundamentos de Sistemas de Información\Semana 6\TA06\obj\Debug\TA06.FormAnimal.resources
